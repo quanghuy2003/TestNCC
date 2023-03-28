@@ -1,8 +1,12 @@
 public class Quiz {
     //Quiz1:
     //    public static void main(String[] args) {
-    //        int n = 1000000;
-    //        System.out.println(tribonacci(n));
+    //         Scanner input = new Scanner(System.in);
+    //        int n = input.nextInt();
+    //        if (n == 1) System.out.println(4);
+    //        else if (n == 2) System.out.println(7);
+    //        else if (n == 3) System.out.println(5);
+    //        else System.out.println(triBoNaCci(n));
     //    }
     //
     //    public static long tribonacci(int n) {
@@ -15,6 +19,7 @@ public class Quiz {
     //        }
     //        return arr[n];
     //    }
+
 
 
 
